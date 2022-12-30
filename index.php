@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Autometic deploy mod
+    Latest Push On Github
 </body>
 </html>
