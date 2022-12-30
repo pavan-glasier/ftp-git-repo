@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    hello
+    Autometic deploy
 </body>
 </html>
